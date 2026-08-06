@@ -65,6 +65,9 @@ Interactive Power BI dashboard analysing breast cancer diagnosis and tumor chara
 ## Key Results
 51% Benign, 49% Malignant, 1,200 patient records analysed.
 
+https://1drv.ms/x/c/A6850565A82F2B89/IQBJfgtGMffhQ6ob0HT8r3l3AZGSaizMu5r3o6BjVx13DVo?e=lqMBjQ
+
+
 
 
 
